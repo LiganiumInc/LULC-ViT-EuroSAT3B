@@ -5,7 +5,7 @@ This project revisits and rebuilds a previous Land Use and Land Cover (LULC) cla
 
 It covers everything from dataset loading, preprocessing, training with transfer learning, to saving and using the model for inference — all in a clean, modular structure powered by **Pipenv** and reproducible configs.
 
-## 📜  Read the my blog post here
+## 📜  Read  my blog post here
 
 [How I Rebuilt My First LULC Project with a Vision Transformer and Clean Code](https://medium.com/@bernardinligan/how-i-rebuilt-my-first-lulc-project-with-a-vision-transformer-and-clean-code-aa9a06094c89)
 
@@ -33,8 +33,8 @@ It covers everything from dataset loading, preprocessing, training with transfer
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/LULC-ViT-EuroSAT.git
-cd LULC-ViT-EuroSAT
+git clone https://github.com/LiganiumInc/LULC-ViT-EuroSAT3B.git
+cd LULC-ViT-EuroSAT3B
 ````
 
 ### 2. Set up the Environment
