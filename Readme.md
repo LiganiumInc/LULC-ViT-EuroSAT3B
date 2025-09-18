@@ -7,9 +7,9 @@ It covers everything from dataset loading, preprocessing, training with transfer
 
 ## 📜  Read  my blog post here
 
-[How I Rebuilt My First LULC Project with a Vision Transformer and Clean Code](https://medium.com/@bernardinligan/how-i-rebuilt-my-first-lulc-project-with-a-vision-transformer-and-clean-code-aa9a06094c89)
+Part 1 : [How I Rebuilt My First LULC Project with a Vision Transformer and Clean Code](https://medium.com/@bernardinligan/how-i-rebuilt-my-first-lulc-project-with-a-vision-transformer-and-clean-code-aa9a06094c89)
 
-
+Part 2 : [From Model to Map: Automating Land Use Classification with Vision Transformers and Google Earth Engine](https://medium.com/@bernardinligan/from-model-to-map-automating-land-use-classification-with-vision-transformers-and-google-earth-9a5510215054)
 
 ## 📂 Project Structure
 
@@ -100,6 +100,7 @@ After training, you'll find:
 
 **Bernardin Ligan**
 PhD Student in AI & Remote Sensing
+
 🌍 Passionate about geospatial ML, open science, and SDGs 
 
 ---
